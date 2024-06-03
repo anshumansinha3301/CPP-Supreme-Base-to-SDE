@@ -13,4 +13,4 @@ int main() {
 
 // Questions:
 // 1. What will be the output if the initial value of i is set to 11? 
-// 2. Explain the difference between `while` and `do-while` loops.   
+// 2. Explain the difference between `while` and `do-while` loops.    
