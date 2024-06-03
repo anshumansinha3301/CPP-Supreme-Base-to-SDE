@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     int i = 1;
-    // Infinite loop with break statement   
+    // Infinite loop with break statement    
     while (true) {
         cout << i << " ";
         if (i >= 10) {
