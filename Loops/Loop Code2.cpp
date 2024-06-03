@@ -3,7 +3,7 @@ using namespace std;
 // Example of while loop  
 int main() {
     int i = 1;
-    // Basic while loop to print numbers from 1 to 10  
+    // Basic while loop to print numbers from 1 to 10   
     while (i <= 10) {
         cout << i << " ";
         i++;
