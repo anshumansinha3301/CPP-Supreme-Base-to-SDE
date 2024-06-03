@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// Nested for loop implementation 
+// Nested for loop implementation  
 int main() {
     // Nested for loop to print a 5x5 matrix of asterisks
     for (int i = 0; i < 5; i++) {
