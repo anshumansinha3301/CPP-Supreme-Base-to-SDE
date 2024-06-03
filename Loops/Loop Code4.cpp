@@ -3,7 +3,7 @@ using namespace std;
 
 // Nested for loop implementation     
 int main() {
-    // Nested for loop to print a 5x5 matrix of asterisks 
+    // Nested for loop to print a 5x5 matrix of asterisks  
     for (int i = 0; i < 5; i++) {
         for (int j = 0; j < 5; j++) {
             cout << "* ";
