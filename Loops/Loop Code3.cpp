@@ -3,7 +3,7 @@ using namespace std;
 // Do while loop 
 int main() {
     int i = 1;
-    // Basic do-while loop to print numbers from 1 to 10 
+    // Basic do-while loop to print numbers from 1 to 10  
     do {
         cout << i << " ";
         i++;
