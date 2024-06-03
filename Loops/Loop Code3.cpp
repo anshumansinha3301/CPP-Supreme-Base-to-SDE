@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-// Do while loop
+// Do while loop 
 int main() {
     int i = 1;
     // Basic do-while loop to print numbers from 1 to 10
