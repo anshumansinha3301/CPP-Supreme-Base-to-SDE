@@ -11,4 +11,4 @@ int main() {
 
 // Questions:
 // 1. What will be the output if the loop condition is changed to i < 10?        
-// 2. Modify the loop to print numbers from 10 to 1.                   
+// 2. Modify the loop to print numbers from 10 to 1.                    
