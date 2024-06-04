@@ -12,5 +12,5 @@ int main() {
 }
 
 // Questions:
-// 1. What happens if the condition is set to i < 1? 
+// 1. What happens if the condition is set to i < 1?  
 // 2. Convert this `while` loop into a `do-while` loop.        
