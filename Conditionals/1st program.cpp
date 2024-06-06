@@ -1,4 +1,4 @@
-// take positive integer input and tell if it is even or odd     
+// take positive integer input and tell if it is even or odd      
 
 #include <iostream>
 
