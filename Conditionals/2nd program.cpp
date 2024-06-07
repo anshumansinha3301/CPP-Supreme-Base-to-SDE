@@ -1,4 +1,4 @@
-// take integer input and print the absolute value of that integer (absolute value means negative no >> positive )           
+// take integer input and print the absolute value of that integer (absolute value means negative no >> positive )            
     
 #include <iostream>
 
