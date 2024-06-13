@@ -1,4 +1,4 @@
-// ternary operator        
+// ternary operator         
 
 #include <iostream>
 
