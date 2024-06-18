@@ -1,5 +1,5 @@
 // Write a C++ program to find the average of n numbers.
-
+ 
 #include <iostream>
 using namespace std;
 
