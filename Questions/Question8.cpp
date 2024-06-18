@@ -2,7 +2,7 @@
  
 #include <iostream>
 using namespace std;
-
+ 
 int main() {
     int n;
     float sum = 0.0, num;
