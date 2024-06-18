@@ -1,5 +1,5 @@
 // Write a C++ program to calculate the grade of a student based on marks obtained in 5 subjects.
-    
+     
 #include <iostream>
 using namespace std;
 
