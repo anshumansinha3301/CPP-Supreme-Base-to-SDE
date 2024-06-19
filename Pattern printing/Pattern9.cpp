@@ -8,7 +8,7 @@ int main() {
             cout << "* ";
         }
         for(int j = i; j < n; j++) {
-            cout << "    "; // using double space of alignment purpose   
+            cout << "    "; // using double space of alignment purpose    
         }
         for(int j = 1; j <= i; j++) {
             cout << "* ";
