@@ -2,7 +2,7 @@
 using namespace std;
 // Hourglass pattern
 int main() {
-    int n = 5; // Number of rows for the upper part   
+    int n = 5; // Number of rows for the upper part    
     for(int i = n; i >= 1; i--) {
         for(int j = n; j > i; j--) {
             cout << "  "; // Print spaces
