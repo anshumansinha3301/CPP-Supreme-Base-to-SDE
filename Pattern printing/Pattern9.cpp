@@ -33,4 +33,4 @@ int main() {
 /*
 Concept: The butterfly pattern has upper and lower parts with wings spreading out.
 Nested loops handle the spaces and stars for symmetry in both parts.
-*/
+*/ 
