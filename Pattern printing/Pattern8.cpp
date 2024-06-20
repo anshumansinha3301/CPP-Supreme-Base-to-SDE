@@ -27,4 +27,4 @@ int main() {
 /*
 Concept: The hourglass pattern combines an inverted and a normal pyramid.
 The two sets of nested loops manage the upper and lower parts respectively.
-*/     
+*/      
