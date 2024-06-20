@@ -14,7 +14,7 @@ int main() {
     }
     for(int i = 2; i <= n; i++) {
         for(int j = n; j > i; j--) {
-            cout << "  "; // Print spaces 
+            cout << "  "; // Print spaces  
         }
         for(int j = 1; j <= (2*i-1); j++) {
             cout << "* ";
