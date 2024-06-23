@@ -2,7 +2,7 @@
 using namespace std;
 // pascal triangle
 int main() {
-    int n = 5; // Number of rows
+    int n = 5; // Number of rows 
     for(int i = 0; i < n; i++) {
         for(int j = 0; j <= i; j++) {
             int value = 1;
