@@ -16,7 +16,7 @@ int main() {
     return 0;
 }
 
-/* 
+/*  
 Concept: Pascal's triangle is generated using combinations.
 Each element is calculated as a combination of row and column indices.
 */     
