@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-// pascal triangle
+// pascal triangle 
 int main() {
     int n = 5; // Number of rows    
     for(int i = 0; i < n; i++) {
