@@ -23,7 +23,7 @@ int main() {
         longEMA.push_back(calculateEMA({prices.begin() + i - longPeriod + 1, prices.begin() + i + 1}, longPeriod));
         macdLine.push_back(shortEMA.back() - longEMA.back());
     }
-
+  
     for (int i = signalPeriod - 1; i < macdLine.size(); ++i) {
         signalLine.push_back(calculateEMA({macdLine.begin() + i - signalPeriod + 1, macdLine.begin() + i + 1}, signalPeriod));
     }
