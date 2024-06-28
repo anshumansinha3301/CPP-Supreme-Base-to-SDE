@@ -9,7 +9,7 @@ double calculateEMA(const std::vector<double>& prices, int period) {
     }
     return ema;
 } 
-
+ 
 int main() {
     std::vector<double> prices = {10, 11, 12, 13, 14, 15, 16, 17, 18, 19};
     int shortPeriod = 12;
