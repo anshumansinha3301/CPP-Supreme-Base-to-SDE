@@ -27,7 +27,7 @@ int main() {
     for (int i = signalPeriod - 1; i < macdLine.size(); ++i) {
         signalLine.push_back(calculateEMA({macdLine.begin() + i - signalPeriod + 1, macdLine.begin() + i + 1}, signalPeriod));
     }
-
+  
     std::cout << "MACD Line: ";
     for (double value : macdLine) std::cout << value << " ";
     std::cout << "\nSignal Line: ";
