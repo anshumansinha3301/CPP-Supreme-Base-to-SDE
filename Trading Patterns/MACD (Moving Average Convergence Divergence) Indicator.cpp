@@ -17,7 +17,7 @@ int main() {
     int signalPeriod = 9;
 
     std::vector<double> shortEMA, longEMA, macdLine, signalLine;
-    
+     
     for (int i = longPeriod - 1; i < prices.size(); ++i) {
         shortEMA.push_back(calculateEMA({prices.begin() + i - shortPeriod + 1, prices.begin() + i + 1}, shortPeriod));
         longEMA.push_back(calculateEMA({prices.begin() + i - longPeriod + 1, prices.begin() + i + 1}, longPeriod));
