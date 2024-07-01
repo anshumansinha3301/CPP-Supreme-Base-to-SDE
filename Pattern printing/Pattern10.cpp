@@ -16,7 +16,7 @@ int main() {
     return 0;
 }
 
-/*
+/* 
 Concept: The zig-zag pattern is created by checking conditions to print stars at specific positions.
 The modulo operation helps in creating the zig-zag effect.
 */
