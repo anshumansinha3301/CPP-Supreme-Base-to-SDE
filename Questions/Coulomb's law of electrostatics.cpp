@@ -14,4 +14,4 @@ int main() {
     F = k * q1 * q2 / (r * r);
     cout << "Force between the charges: " << F << " N" << endl;
     return 0;
-}
+} 
