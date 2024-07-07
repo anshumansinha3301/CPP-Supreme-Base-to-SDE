@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
-
+ 
 int main() {
     double radius, slantHeight, lateralSurfaceArea;
     const double PI = 3.14159265358979323846;
