@@ -2,7 +2,7 @@
 #include <cmath>
 #include <math.h>
 using namespace std;
- 
+  
 int main() {
     double velocity, angle, range;
     const double g = 9.81; // acceleration due to gravity in m/s^2
