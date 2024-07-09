@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
-      
+       
 int main() {
     double q1, q2, r, F;
     const double k = 8.9875e9;
