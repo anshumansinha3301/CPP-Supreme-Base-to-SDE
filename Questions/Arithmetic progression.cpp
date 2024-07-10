@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-   
+     
 int main() {
     int a, d, n;
     cout << "Enter the first term (a): ";
