@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+ 
 int main() {
     double voltage, current, power;
     cout << "Enter voltage (in volts): ";
