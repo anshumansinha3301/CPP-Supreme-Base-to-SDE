@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+ 
 int main() {
     double mass, height, potentialEnergy;
     const double g = 9.81; // acceleration due to gravity in m/s^2
