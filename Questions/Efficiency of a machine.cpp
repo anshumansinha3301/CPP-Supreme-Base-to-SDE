@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
- 
+  
 int main() {
     double inputEnergy, outputEnergy, efficiency;
     cout << "Enter input energy (in joules): ";
