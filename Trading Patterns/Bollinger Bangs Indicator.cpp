@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <cmath>
- 
+  
 std::pair<double, double> calculateBollingerBands(const std::vector<double>& prices, int period) {
     double sum = 0.0;
     for (int i = prices.size() - period; i < prices.size(); ++i) {
