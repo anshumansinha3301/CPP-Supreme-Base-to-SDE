@@ -26,7 +26,7 @@ int main() {
     for (int i = 0; i < size; i++) {
         cin >> arr[i];
     }
-
+ 
     cout << "Enter the target element to search for: ";
     cin >> target;
 
