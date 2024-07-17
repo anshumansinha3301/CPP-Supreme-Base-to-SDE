@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-     
+// Arithmetic progression code (basic version)
 int main() {
     int a, d, n;
     cout << "Enter the first term (a): ";
