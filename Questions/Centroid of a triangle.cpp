@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-  
+// code for centroid of a triangle in main function
 int main() {
     double x1, y1, x2, y2, x3, y3, x_centroid, y_centroid;
     cout << "Enter coordinates of the first vertex (x1 y1): ";
