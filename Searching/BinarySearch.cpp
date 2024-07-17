@@ -13,7 +13,7 @@ int binarySearch(int arr[], int left, int right, int target) {
     }
     return -1;
 }
- 
+ // main function is defined below
 int main() {
     int size, target;
 
