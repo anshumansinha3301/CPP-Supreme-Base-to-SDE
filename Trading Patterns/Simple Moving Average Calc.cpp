@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
-
+// Simple Moving Average Calculation integration code for main code
+// By Anshuman Sinha
 double calculateSMA(const std::vector<double>& prices, int period) {
     if (prices.size() < static_cast<size_t>(period)) {
         std::cerr << "Not enough data to calculate SMA for the given period." << std::endl;
