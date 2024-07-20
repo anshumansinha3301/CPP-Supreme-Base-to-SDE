@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 // MACD Trading Pattern (Moving average convergence divergence) part for integration into main code
-// By Anshuman Sinha
+// By Anshuman Sinha 
 double calculateEMA(const std::vector<double>& prices, int period) {
     double multiplier = 2.0 / (period + 1);
     double ema = prices[0];
