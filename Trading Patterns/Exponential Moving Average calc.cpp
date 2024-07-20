@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 // Exponential moving average calculator function for integration into main division part
-// by SDE Anshuman Sinha
+// by SDE Anshuman Sinha 
 double calculateEMA(const std::vector<double>& prices, int period) {
     double multiplier = 2.0 / (period + 1);
     double ema = prices[0];
