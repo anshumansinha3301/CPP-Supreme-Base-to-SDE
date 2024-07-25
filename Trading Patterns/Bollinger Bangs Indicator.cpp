@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <cmath>
-// Bollinger Bangs function based code for integration into main code 
+// Bollinger Bangs function based code for integration into main code   
 // By SDE Anshuman Sinha          
 std::pair<double, double> calculateBollingerBands(const std::vector<double>& prices, int period) {
     double sum = 0.0;
