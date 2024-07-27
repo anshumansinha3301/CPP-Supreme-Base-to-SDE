@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-     
+      
 int main() {
     int n = 9; // Width of the pattern
     for(int i = 1; i <= 3; i++) {
