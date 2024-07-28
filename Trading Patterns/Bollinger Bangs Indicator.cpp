@@ -15,7 +15,7 @@ std::pair<double, double> calculateBollingerBands(const std::vector<double>& pri
         variance += std::pow(prices[i] - sma, 2);
     }
     double stddev = std::sqrt(variance / period);
-  
+    
     return {sma + 2 * stddev, sma - 2 * stddev};
 }
 
