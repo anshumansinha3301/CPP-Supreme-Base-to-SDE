@@ -9,7 +9,7 @@ std::pair<double, double> calculateBollingerBands(const std::vector<double>& pri
         sum += prices[i];
     }
     double sma = sum / period;
-
+   
     double variance = 0.0;
     for (int i = prices.size() - period; i < prices.size(); ++i) {
         variance += std::pow(prices[i] - sma, 2);
